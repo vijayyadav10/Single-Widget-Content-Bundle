@@ -1,0 +1,6 @@
+code: entando-mf-conf-template
+description: strapi single content bundle
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
